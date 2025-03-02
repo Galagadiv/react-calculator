@@ -1,0 +1,16 @@
+.field {
+	display: flex;
+	background-color: azure;
+	justify-content: center;
+}
+.calc {
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(241, 217, 151);
+	border: 1px solid black;
+	border-color: black;
+	padding: 20px 10px 10px 10px;
+	width: fit-content;
+	height: auto;
+	align-items: center;
+}
