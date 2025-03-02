@@ -1,0 +1,14 @@
+.valBar {
+	display: flex;
+	flex-direction: row-reverse;
+	background-color: aliceblue;
+	border: 1px solid black;
+	width: 100%;
+}
+.valText {
+	margin: 0;
+	padding: 0;
+	padding: 10px;
+	line-height: 1em;
+	font-size: 30px;
+}
